@@ -19,3 +19,7 @@ We set HSV colour lower and upper bound according to distance of target from web
 ## Execution
 
 To execute the code, run ```skindetecter_1.py```
+
+## References
+
+https://www.pyimagesearch.com/2014/08/18/skin-detection-step-step-example-using-python-opencv/
